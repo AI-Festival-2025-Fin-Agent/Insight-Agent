@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "pub_agent.main:workflow"
+  },
+  "env": ".env"
+}

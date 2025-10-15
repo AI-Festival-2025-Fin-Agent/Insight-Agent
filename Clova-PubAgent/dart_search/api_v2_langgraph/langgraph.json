@@ -1,0 +1,14 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "summarize": {
+      "path": "summarize_graph:graph",
+      "description": "DART 공시 문서를 검색하고 요약하는 그래프"
+    },
+    "analyze": {
+      "path": "analyze_graph:graph",
+      "description": "요약된 내용을 기반으로 모드별 분석을 수행하는 그래프"
+    }
+  },
+  "env": "/home/sese/Insight-Agent/Clova-PubAgent/dart_search/api_v2_langgraph/.env"
+}

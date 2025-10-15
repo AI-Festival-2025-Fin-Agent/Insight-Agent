@@ -1,0 +1,1 @@
+nohup langgraph dev --host 0.0.0.0 --port 2024 --tunnel > /home/sese/Clova-PubAgent/nohup.ansi 2>&1 & 

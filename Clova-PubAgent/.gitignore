@@ -1,0 +1,7 @@
+__pycache__/
+.langgraph_api/
+.env
+
+
+# Data directories (large datasets)
+
