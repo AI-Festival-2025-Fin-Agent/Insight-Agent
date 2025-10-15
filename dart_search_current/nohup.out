@@ -1,0 +1,5337 @@
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:49260 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:39882 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+
+📄 페이지 4 요청 중...
+📊 100개의 공시 발견
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:38276 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:40784 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:40788 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:32770 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:46820 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:52506 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:52520 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000367
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000367
+📋 접수번호: 20251013000367
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000367
+🔍 스크립트에서 발견된 dcmNo: 10837982 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000367&dcmNo=10837982&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 117983 문자
+🔍 Content-Type: text/html; charset=ms949
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 헤더에서 감지된 인코딩 ms949 사용
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="11325">二쇱슂?궗?빆蹂닿퀬?꽌(?떊二쇱씤?닔沅뚮??궗梨? 諛쒗뻾寃곗젙)</DOCUMENT-NAME>
+<FORMULA-VERSION SUBVER="1" ADATE="20250630">6.1</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01022902">(二?)?븷?뱶諛붿씠?삤?뀓</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="3">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="1" ADUPLICAT...
+🔍 추출된 텍스트 길이: 21680 문자
+✅ 문서 내용 반환 (21680 문자)
+INFO:     127.0.0.1:40432 - "GET /api/disclosures/20251013000367/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000362
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000362
+📋 접수번호: 20251013000362
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000362
+🔍 스크립트에서 발견된 dcmNo: 10837974 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000362&dcmNo=10837974&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 57617 문자
+🔍 Content-Type: text/html; charset=ms949
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 헤더에서 감지된 인코딩 ms949 사용
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="11324">二쇱슂?궗?빆蹂닿퀬?꽌(?쟾?솚?궗梨꾧텒 諛쒗뻾寃곗젙)</DOCUMENT-NAME>
+<FORMULA-VERSION SUBVER="1" ADATE="20250630">6.1</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00808068">(二?)?삊吏?</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="2">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<C...
+🔍 추출된 텍스트 길이: 10636 문자
+✅ 문서 내용 반환 (10636 문자)
+INFO:     127.0.0.1:40432 - "GET /api/disclosures/20251013000362/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013800712
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800712
+📋 접수번호: 20251013800712
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800712
+🔍 스크립트에서 발견된 dcmNo: 10837991 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013800712&dcmNo=10837991&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 5751 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 587 문자
+✅ 문서 내용 반환 (587 문자)
+INFO:     127.0.0.1:40432 - "GET /api/disclosures/20251013800712/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013800711
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800711
+📋 접수번호: 20251013800711
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800711
+🔍 스크립트에서 발견된 dcmNo: 10837989 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013800711&dcmNo=10837989&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 5741 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 600 문자
+✅ 문서 내용 반환 (600 문자)
+INFO:     127.0.0.1:40432 - "GET /api/disclosures/20251013800711/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900699
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900699
+📋 접수번호: 20251013900699
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900699
+🔍 스크립트에서 발견된 dcmNo: 10837981 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900699&dcmNo=10837981&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 550587 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML style="border:0">
+<head><link href="/css/koscom_web3.css" rel="stylesheet" type="text/css"/>
+<TITLE></TITLE>
+<META http-equiv="X-UA-TextLayoutMetrics" content="gdi" />
+<META http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<STYLE>/*report_xml.css*/ BODY {margin-left:20px; width:600px; font:12pt gulim; word-break:break-all;} .TABLE {table-layout:fixed; font:11pt gulim; ...
+🔍 추출된 텍스트 길이: 58045 문자
+✅ 문서 내용 반환 (58045 문자)
+INFO:     127.0.0.1:54808 - "GET /api/disclosures/20251013900699/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900699
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900699
+📋 접수번호: 20251013900699
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900699
+🔍 스크립트에서 발견된 dcmNo: 10837981 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900699&dcmNo=10837981&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 550587 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML style="border:0">
+<head><link href="/css/koscom_web3.css" rel="stylesheet" type="text/css"/>
+<TITLE></TITLE>
+<META http-equiv="X-UA-TextLayoutMetrics" content="gdi" />
+<META http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<STYLE>/*report_xml.css*/ BODY {margin-left:20px; width:600px; font:12pt gulim; word-break:break-all;} .TABLE {table-layout:fixed; font:11pt gulim; ...
+🔍 추출된 텍스트 길이: 58045 문자
+✅ 문서 내용 반환 (58045 문자)
+INFO:     127.0.0.1:54808 - "GET /api/disclosures/20251013900699/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900699
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900699
+📋 접수번호: 20251013900699
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900699
+🔍 스크립트에서 발견된 dcmNo: 10837981 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900699&dcmNo=10837981&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 550587 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML style="border:0">
+<head><link href="/css/koscom_web3.css" rel="stylesheet" type="text/css"/>
+<TITLE></TITLE>
+<META http-equiv="X-UA-TextLayoutMetrics" content="gdi" />
+<META http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<STYLE>/*report_xml.css*/ BODY {margin-left:20px; width:600px; font:12pt gulim; word-break:break-all;} .TABLE {table-layout:fixed; font:11pt gulim; ...
+🔍 추출된 텍스트 길이: 58045 문자
+✅ 문서 내용 반환 (58045 문자)
+INFO:     127.0.0.1:54808 - "GET /api/disclosures/20251013900699/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900696
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900696
+📋 접수번호: 20251013900696
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900696
+🔍 스크립트에서 발견된 dcmNo: 10837978 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900696&dcmNo=10837978&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 21148 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 1895 문자
+✅ 문서 내용 반환 (1895 문자)
+INFO:     127.0.0.1:57404 - "GET /api/disclosures/20251013900696/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900699
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900699
+📋 접수번호: 20251013900699
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900699
+🔍 스크립트에서 발견된 dcmNo: 10837981 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900699&dcmNo=10837981&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 550587 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML style="border:0">
+<head><link href="/css/koscom_web3.css" rel="stylesheet" type="text/css"/>
+<TITLE></TITLE>
+<META http-equiv="X-UA-TextLayoutMetrics" content="gdi" />
+<META http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<STYLE>/*report_xml.css*/ BODY {margin-left:20px; width:600px; font:12pt gulim; word-break:break-all;} .TABLE {table-layout:fixed; font:11pt gulim; ...
+🔍 추출된 텍스트 길이: 58045 문자
+✅ 문서 내용 반환 (58045 문자)
+INFO:     127.0.0.1:57404 - "GET /api/disclosures/20251013900699/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900671
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900671
+📋 접수번호: 20251013900671
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900671
+🔍 스크립트에서 발견된 dcmNo: 10837964 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900671&dcmNo=10837964&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 9111 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 481 문자
+✅ 문서 내용 반환 (481 문자)
+INFO:     127.0.0.1:40446 - "GET /api/disclosures/20251013900671/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900680
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900680
+📋 접수번호: 20251013900680
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900680
+🔍 스크립트에서 발견된 dcmNo: 10837969 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900680&dcmNo=10837969&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 28419 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 2484 문자
+✅ 문서 내용 반환 (2484 문자)
+INFO:     127.0.0.1:40446 - "GET /api/disclosures/20251013900680/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013800652
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800652
+📋 접수번호: 20251013800652
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800652
+🔍 스크립트에서 발견된 dcmNo: 10837955 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013800652&dcmNo=10837955&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 13548 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 1283 문자
+✅ 문서 내용 반환 (1283 문자)
+INFO:     127.0.0.1:40446 - "GET /api/disclosures/20251013800652/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900673
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900673
+📋 접수번호: 20251013900673
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900673
+🔍 스크립트에서 발견된 dcmNo: 10837960 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900673&dcmNo=10837960&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 15830 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 1333 문자
+✅ 문서 내용 반환 (1333 문자)
+INFO:     127.0.0.1:40446 - "GET /api/disclosures/20251013900673/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000356
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000356
+📋 접수번호: 20251013000356
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000356
+🔍 스크립트에서 발견된 dcmNo: 10837942 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000356&dcmNo=10837942&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 206035 문자
+🔍 Content-Type: text/html; charset=ms949
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 헤더에서 감지된 인코딩 ms949 사용
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="00760">媛먯궗蹂닿퀬?꽌</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20221027">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00429153" AACCOUNTTYPE="A">二쇱떇?쉶?궗 ?슦由?</COMPANY-NAME>
+
+<SUMMARY>
+<EXTRACTION ACODE="AUDIT_CIK" AFEATURE="BOTH">00267146</EXTRACTION>
+<EXTRACTION ACODE="SUPV_OPIN" AFEATURE=...
+🔍 추출된 텍스트 길이: 30215 문자
+✅ 문서 내용 반환 (30215 문자)
+INFO:     127.0.0.1:40446 - "GET /api/disclosures/20251013000356/content HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [514198]
+INFO:     Started server process [524721]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 공시 내용 요청: 20251013000347
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000347
+📋 접수번호: 20251013000347
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000347
+🔍 스크립트에서 발견된 dcmNo: 10837913 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000347&dcmNo=10837913&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 342084 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 헤더에서 감지된 인코딩 ms949 사용
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="11033">遺꾧린蹂닿퀬?꽌(?쑀?룞?솕?쟾臾명쉶?궗)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20230220">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01710113">?떚?썡?뱶?젣83李⑥쑀?룞?솕?쟾臾?(?쑀)</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="26">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<C...
+🔍 추출된 텍스트 길이: 122751 문자
+✅ 문서 내용 반환 (122751 문자)
+INFO:     127.0.0.1:52382 - "GET /api/disclosures/20251013000347/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000161
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000161
+📋 접수번호: 20251013000161
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000161
+🔍 스크립트에서 발견된 dcmNo: 10837176 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000161&dcmNo=10837176&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 250253 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 헤더에서 감지된 인코딩 ms949 사용
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="00715">?옄?궛?뼇?룄?벑?쓽?벑濡앹떊泥??꽌</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20240112">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01900664">?쑀?뿉?씠移섏젣?떗?씪李⑥쑀?룞?솕?쟾臾? ?쑀?븳?쉶?궗</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="40">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="1" ADUPLICATION="N...
+🔍 추출된 텍스트 길이: 70456 문자
+✅ 문서 내용 반환 (70456 문자)
+INFO:     127.0.0.1:52382 - "GET /api/disclosures/20251013000161/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000347
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000347
+📋 접수번호: 20251013000347
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000347
+🔍 스크립트에서 발견된 dcmNo: 10837913 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000347&dcmNo=10837913&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 342084 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 헤더에서 감지된 인코딩 ms949 사용
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="11033">遺꾧린蹂닿퀬?꽌(?쑀?룞?솕?쟾臾명쉶?궗)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20230220">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01710113">?떚?썡?뱶?젣83李⑥쑀?룞?솕?쟾臾?(?쑀)</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="26">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<C...
+🔍 추출된 텍스트 길이: 122751 문자
+✅ 문서 내용 반환 (122751 문자)
+INFO:     127.0.0.1:52382 - "GET /api/disclosures/20251013000347/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900602
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900602
+📋 접수번호: 20251013900602
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900602
+🔍 스크립트에서 발견된 dcmNo: 10837884 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900602&dcmNo=10837884&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 6027 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 340 문자
+✅ 문서 내용 반환 (340 문자)
+INFO:     127.0.0.1:52382 - "GET /api/disclosures/20251013900602/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000343
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000343
+📋 접수번호: 20251013000343
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000343
+🔍 스크립트에서 발견된 dcmNo: 10837899 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000343&dcmNo=10837899&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 6017 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 헤더에서 감지된 인코딩 ms949 사용
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="N">
+<DOCUMENT-NAME ACODE="90118">?쐞?엫?옣(?쓽寃곌텒??由ы뻾?궗?쓽 沅뚯쑀)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20220304">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00618410">(二?)耳??씠?뿉?뒪?씤?뜑?뒪?듃由?</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="2">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="1" ADUPLICATION="N">
+<CO...
+🔍 추출된 텍스트 길이: 1109 문자
+✅ 문서 내용 반환 (1109 문자)
+INFO:     127.0.0.1:52382 - "GET /api/disclosures/20251013000343/content HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [524721]
+INFO:     Started server process [525293]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 공시 내용 요청: 20251013900592
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900592
+📋 접수번호: 20251013900592
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900592
+🔍 스크립트에서 발견된 dcmNo: 10837851 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900592&dcmNo=10837851&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 6780 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 451 문자
+✅ 문서 내용 반환 (451 문자)
+INFO:     127.0.0.1:59524 - "GET /api/disclosures/20251013900592/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000337
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000337
+📋 접수번호: 20251013000337
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000337
+🔍 스크립트에서 발견된 dcmNo: 10837858 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000337&dcmNo=10837858&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 22451 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 헤더에서 감지된 인코딩 ms949 사용
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="12010">二쇱떇留ㅼ닔?꽑?깮沅? 遺??뿬?뿉 愿??븳 ?떊怨?</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20180119">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01632912">?삩肄붾땳?뀒?씪?벂?떛?뒪 二쇱떇?쉶?궗</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="2">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+...
+🔍 추출된 텍스트 길이: 4853 문자
+✅ 문서 내용 반환 (4853 문자)
+INFO:     127.0.0.1:41148 - "GET /api/disclosures/20251013000337/content HTTP/1.1" 200 OK
+
+
+
+
+
+INFO:     82.180.32.195:53831 - "GET / HTTP/1.0" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [525293]
+INFO:     Started server process [526580]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 공시 내용 요청: 20251013900585
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900585
+📋 접수번호: 20251013900585
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900585
+🔍 스크립트에서 발견된 dcmNo: 10837845 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900585&dcmNo=10837845&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 3930 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 311 문자
+✅ 문서 내용 반환 (311 문자)
+INFO:     127.0.0.1:49294 - "GET /api/disclosures/20251013900585/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000329
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000329
+📋 접수번호: 20251013000329
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000329
+🔍 스크립트에서 발견된 dcmNo: 10837784 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000329&dcmNo=10837784&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 23640 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 헤더에서 감지된 인코딩 cp949 사용 - 한글 확인됨
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="12010">二쇱떇留ㅼ닔?꽑?깮沅? 遺??뿬?뿉 愿??븳 ?떊怨?</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20180119">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01632912">?삩肄붾땳?뀒?씪?벂?떛?뒪 二쇱떇?쉶?궗</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="2">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">...
+🔍 추출된 텍스트 길이: 5559 문자
+✅ 문서 내용 반환 (5559 문자)
+INFO:     127.0.0.1:49294 - "GET /api/disclosures/20251013000329/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000289
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000289
+📋 접수번호: 20251013000289
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000289
+🔍 스크립트에서 발견된 dcmNo: 10837701 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000289&dcmNo=10837701&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 222618 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 헤더에서 감지된 인코딩 cp949 사용 - 한글 확인됨
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="N">
+<DOCUMENT-NAME ACODE="10603">?닾?옄?꽕紐낆꽌(?씪愿꾩떊怨?)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20210802">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00138321">?떊?븳?닾?옄利앷텒(二?)</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="2">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>?뾾click?뾾...
+🔍 추출된 텍스트 길이: 69000 문자
+✅ 문서 내용 반환 (69000 문자)
+INFO:     127.0.0.1:47436 - "GET /api/disclosures/20251013000289/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000289
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000289
+📋 접수번호: 20251013000289
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000289
+🔍 스크립트에서 발견된 dcmNo: 10837701 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000289&dcmNo=10837701&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 222618 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 헤더에서 감지된 인코딩 cp949 사용 - 한글 확인됨
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="N">
+<DOCUMENT-NAME ACODE="10603">?닾?옄?꽕紐낆꽌(?씪愿꾩떊怨?)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20210802">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00138321">?떊?븳?닾?옄利앷텒(二?)</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="2">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>?뾾click?뾾...
+🔍 추출된 텍스트 길이: 69000 문자
+✅ 문서 내용 반환 (69000 문자)
+INFO:     127.0.0.1:47436 - "GET /api/disclosures/20251013000289/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000290
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000290
+📋 접수번호: 20251013000290
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000290
+🔍 스크립트에서 발견된 dcmNo: 10837702 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000290&dcmNo=10837702&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 3231900 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 헤더에서 감지된 인코딩 cp949 사용 - 한글 확인됨
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="N">
+<DOCUMENT-NAME ACODE="10603">?닾?옄?꽕紐낆꽌(?씪愿꾩떊怨?)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20210801">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00148504">?븳援??뒪?깲?떎?뱶李⑦??뱶???뻾</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="27">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>?뾾...
+🔍 추출된 텍스트 길이: 500239 문자
+✅ 문서 내용 반환 (500239 문자)
+INFO:     127.0.0.1:47436 - "GET /api/disclosures/20251013000290/content HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [526580]
+INFO:     Started server process [527259]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 공시 내용 요청: 20251013000271
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000271
+📋 접수번호: 20251013000271
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000271
+🔍 스크립트에서 발견된 dcmNo: 10837617 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000271&dcmNo=10837617&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 87966 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지, UTF-8 우선 시도
+⚠️ XML UTF-8 디코딩 실패, CP949 시도
+🔍 헤더에서 감지된 인코딩 cp949 사용 - 한글 확인됨
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="10800">利앷텒諛쒗뻾?떎?쟻蹂닿퀬?꽌</DOCUMENT-NAME>
+<FORMULA-VERSION SUBVER="1" ADATE="20230828">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00113465">?븯?굹利앷텒</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="10">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>?뾾click?...
+🔍 추출된 텍스트 길이: 17497 문자
+✅ 문서 내용 반환 (17497 문자)
+INFO:     127.0.0.1:44844 - "GET /api/disclosures/20251013000271/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013800504
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800504
+📋 접수번호: 20251013800504
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800504
+🔍 스크립트에서 발견된 dcmNo: 10837636 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013800504&dcmNo=10837636&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 69526 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 2866 문자
+✅ 문서 내용 반환 (2866 문자)
+INFO:     127.0.0.1:44844 - "GET /api/disclosures/20251013800504/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000265
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000265
+📋 접수번호: 20251013000265
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000265
+🔍 스크립트에서 발견된 dcmNo: 10837593 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000265&dcmNo=10837593&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 26432 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지, UTF-8 우선 시도
+⚠️ XML UTF-8 디코딩 실패, CP949 시도
+🔍 헤더에서 감지된 인코딩 cp949 사용 - 한글 확인됨
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="00693">?떊?긽怨꾩빟?빐吏?寃곌낵蹂닿퀬?꽌</DOCUMENT-NAME>
+<FORMULA-VERSION SUBVER="1" ADATE="20241231">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01587056">?뿏?젽(二?)</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="11">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>?뾾c...
+🔍 추출된 텍스트 길이: 2869 문자
+✅ 문서 내용 반환 (2869 문자)
+INFO:     127.0.0.1:44844 - "GET /api/disclosures/20251013000265/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000251
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000251
+📋 접수번호: 20251013000251
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000251
+🔍 스크립트에서 발견된 dcmNo: 10837554 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000251&dcmNo=10837554&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 178043 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지, UTF-8 우선 시도
+⚠️ XML UTF-8 디코딩 실패, CP949 시도
+🔍 헤더에서 감지된 인코딩 cp949 사용 - 한글 확인됨
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="00760">媛먯궗蹂닿퀬?꽌</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20221027">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01437937" AACCOUNTTYPE="A">?빐?슫???쑁?씠?쑁?뵾?뿉?봽釉뚯씠 二쇱떇?쉶?궗</COMPANY-NAME>
+
+<SUMMARY>
+<EXTRACTION ACODE="AUDIT_CIK" AFEATURE="BOTH">00386609</EXTRACTION>
+<EXTRACTION ACODE="SUP...
+🔍 추출된 텍스트 길이: 31275 문자
+✅ 문서 내용 반환 (31275 문자)
+INFO:     127.0.0.1:44844 - "GET /api/disclosures/20251013000251/content HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [527259]
+INFO:     Started server process [528139]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 공시 내용 요청: 20251013900444
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900444
+📋 접수번호: 20251013900444
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900444
+🔍 스크립트에서 발견된 dcmNo: 10837484 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900444&dcmNo=10837484&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 9400 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 811 문자
+✅ 문서 내용 반환 (811 문자)
+INFO:     127.0.0.1:55900 - "GET /api/disclosures/20251013900444/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000235
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000235
+📋 접수번호: 20251013000235
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000235
+🔍 스크립트에서 발견된 dcmNo: 10837466 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000235&dcmNo=10837466&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 6680710 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지, UTF-8 우선 시도
+🔍 바이트 샘플 (처음 200바이트): b'<?xml version="1.0" encoding="utf-8"?>\r\n\r\n\r\n<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">\r\n\r\n<DOCUMENT-HEADER AEXT-CLASS="N">\r\n<DOCUMENT-NA'
+⚠️ XML UTF-8 디코딩 실패: 'utf-8' codec can't decode byte 0x88 in position 218: invalid start byte, CP949 시도
+🔍 헤더에서 감지된 인코딩 cp949 사용 - 한글 확인됨
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="N">
+<DOCUMENT-NAME ACODE="10603">?닾?옄?꽕紐낆꽌(?씪愿꾩떊怨?)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20210801">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00158909">(二?)?븯?굹???뻾</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="27">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>?뾾click?뾾 ?...
+🔍 추출된 텍스트 길이: 1097940 문자
+✅ 문서 내용 반환 (1097940 문자)
+INFO:     127.0.0.1:55900 - "GET /api/disclosures/20251013000235/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000231
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000231
+📋 접수번호: 20251013000231
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000231
+🔍 스크립트에서 발견된 dcmNo: 10837458 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000231&dcmNo=10837458&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 213628 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지, UTF-8 우선 시도
+🔍 바이트 샘플 (처음 200바이트): b'<?xml version="1.0" encoding="utf-8"?>\r\n\r\n\r\n<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">\r\n\r\n<DOCUMENT-HEADER AEXT-CLASS="Y">\r\n<DOCUMENT-NA'
+⚠️ XML UTF-8 디코딩 실패: 'utf-8' codec can't decode byte 0x84 in position 230: invalid start byte, CP949 시도
+🔍 헤더에서 감지된 인코딩 cp949 사용 - 한글 확인됨
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="00760">媛먯궗蹂닿퀬?꽌</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20221027">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01875641" AACCOUNTTYPE="A">(二?)泥??떞湲덇끝二쇱쑀?냼</COMPANY-NAME>
+
+<SUMMARY>
+<EXTRACTION ACODE="AUDIT_CIK" AFEATURE="BOTH">00655855</EXTRACTION>
+<EXTRACTION ACODE="SUPV_OPIN" AFEAT...
+🔍 추출된 텍스트 길이: 38262 문자
+✅ 문서 내용 반환 (38262 문자)
+INFO:     127.0.0.1:52052 - "GET /api/disclosures/20251013000231/content HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [528139]
+INFO:     Started server process [528795]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 공시 내용 요청: 20251013900315
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900315
+📋 접수번호: 20251013900315
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900315
+🔍 스크립트에서 발견된 dcmNo: 10837335 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900315&dcmNo=10837335&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 13001 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 786 문자
+✅ 문서 내용 반환 (786 문자)
+INFO:     127.0.0.1:37624 - "GET /api/disclosures/20251013900315/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900352
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900352
+📋 접수번호: 20251013900352
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900352
+🔍 스크립트에서 발견된 dcmNo: 10837333 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900352&dcmNo=10837333&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 12528 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 1076 문자
+✅ 문서 내용 반환 (1076 문자)
+INFO:     127.0.0.1:37624 - "GET /api/disclosures/20251013900352/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900345
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900345
+📋 접수번호: 20251013900345
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900345
+🔍 스크립트에서 발견된 dcmNo: 10837265 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900345&dcmNo=10837265&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 3922 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 307 문자
+✅ 문서 내용 반환 (307 문자)
+INFO:     127.0.0.1:37624 - "GET /api/disclosures/20251013900345/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900348
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900348
+📋 접수번호: 20251013900348
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900348
+🔍 스크립트에서 발견된 dcmNo: 10837269 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900348&dcmNo=10837269&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 7219 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 456 문자
+✅ 문서 내용 반환 (456 문자)
+INFO:     127.0.0.1:37624 - "GET /api/disclosures/20251013900348/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000180
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000180
+📋 접수번호: 20251013000180
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000180
+🔍 스크립트에서 발견된 dcmNo: 10837205 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000180&dcmNo=10837205&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 15598 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 (DART는 XML 헤더가 utf-8이라도 실제는 CP949)
+🔍 헤더에서 감지된 인코딩 cp949 사용 - 한글 확인됨
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="80518">?쑀?긽利앹옄 寃곗젙</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20221227">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01871803">?젣由ъ퐫?뙆?듃?꼫?뒪 二쇱떇?쉶?궗</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="1">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>?뾾click?뾾 ...
+🔍 추출된 텍스트 길이: 1705 문자
+✅ 문서 내용 반환 (1705 문자)
+INFO:     127.0.0.1:37624 - "GET /api/disclosures/20251013000180/content HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [528795]
+INFO:     Started server process [529072]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 공시 내용 요청: 20251013000166
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000166
+📋 접수번호: 20251013000166
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000166
+🔍 스크립트에서 발견된 dcmNo: 10837197 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000166&dcmNo=10837197&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 22292 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 (DART는 XML 헤더가 utf-8이라도 실제는 CP949)
+🔍 cp949 디코딩 성공 - 한글 확인: ['꾩빟', '곌낵', '닿퀬']
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="00693">?떊?긽怨꾩빟?빐吏?寃곌낵蹂닿퀬?꽌</DOCUMENT-NAME>
+<FORMULA-VERSION SUBVER="1" ADATE="20241231">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01491607">二쇱떇?쉶?궗 ?삤?뿉?뒪?뵾</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="11">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COM...
+🔍 추출된 텍스트 길이: 2092 문자
+✅ 문서 내용 반환 (2092 문자)
+INFO:     127.0.0.1:52192 - "GET /api/disclosures/20251013000166/content HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [529072]
+INFO:     Started server process [529276]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 공시 내용 요청: 20251013000156
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000156
+📋 접수번호: 20251013000156
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000156
+🔍 스크립트에서 발견된 dcmNo: 10837167 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000156&dcmNo=10837167&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 214723 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 (DART는 XML 헤더가 utf-8이라도 실제는 CP949)
+🔍 cp949 디코딩 성공 - 한글 확인: ['먯궗', '닿퀬', '쇱떇']
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="00760">媛먯궗蹂닿퀬?꽌</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20221027">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01871812" AACCOUNTTYPE="A">二쇱떇?쉶?궗 吏??뿏鍮?</COMPANY-NAME>
+
+<SUMMARY>
+<EXTRACTION ACODE="AUDIT_CIK" AFEATURE="BOTH">00437161</EXTRACTION>
+<EXTRACTION ACODE="SUPV_OPIN" AFEATUR...
+🔍 추출된 텍스트 길이: 28805 문자
+✅ 문서 내용 반환 (28805 문자)
+INFO:     127.0.0.1:50512 - "GET /api/disclosures/20251013000156/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000151
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000151
+📋 접수번호: 20251013000151
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000151
+🔍 스크립트에서 발견된 dcmNo: 10837125 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000151&dcmNo=10837125&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 97492 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 (DART는 XML 헤더가 utf-8이라도 실제는 CP949)
+🔍 cp949 디코딩 성공 - 한글 확인: ['곗뾽', '묐떒', '듭떆']
+⚠️ 한글 인코딩 문제 감지, 복원 시도...
+⚠️ 한글 인코딩 복원 실패
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="N">
+<DOCUMENT-NAME ACODE="80623">湲곗뾽吏묐떒?쁽?솴怨듭떆(?뿰1?쉶-媛쒕퀎?쉶?궗?슜)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20250421">6.1</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01871803">?젣由ъ퐫?뙆?듃?꼫?뒪 二쇱떇?쉶?궗</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="37">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="1" ADUPLICATION="N">...
+🔍 추출된 텍스트 길이: 12424 문자
+✅ 문서 내용 반환 (12424 문자)
+INFO:     127.0.0.1:48278 - "GET /api/disclosures/20251013000151/content HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [529276]
+INFO:     Started server process [530735]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 공시 내용 요청: 20251013900282
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900282
+📋 접수번호: 20251013900282
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900282
+🔍 스크립트에서 발견된 dcmNo: 10837139 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900282&dcmNo=10837139&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 5420 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 375 문자
+✅ 문서 내용 반환 (375 문자)
+INFO:     127.0.0.1:33708 - "GET /api/disclosures/20251013900282/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013600268
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013600268
+📋 접수번호: 20251013600268
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013600268
+🔍 스크립트에서 발견된 dcmNo: 10837137 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013600268&dcmNo=10837137&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 5094 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 389 문자
+✅ 문서 내용 반환 (389 문자)
+INFO:     127.0.0.1:33708 - "GET /api/disclosures/20251013600268/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000153
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000153
+📋 접수번호: 20251013000153
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000153
+🔍 스크립트에서 발견된 dcmNo: 10837130 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000153&dcmNo=10837130&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 197594 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 - UTF-8 우선 시도 (에러 대체)
+🔍 UTF-8 디코딩 성공 (에러 대체) - 한글 확인: ['괄신고추', '결합', '증권']
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="10137">?��괄신고추�??���?(기�??��?��결합?���?)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20151203">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00296290">?��??증권</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="19">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>?�...
+🔍 추출된 텍스트 길이: 62164 문자
+✅ 문서 내용 반환 (62164 문자)
+INFO:     127.0.0.1:33708 - "GET /api/disclosures/20251013000153/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000152
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000152
+📋 접수번호: 20251013000152
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000152
+🔍 스크립트에서 발견된 dcmNo: 10837126 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000152&dcmNo=10837126&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 34447 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 - UTF-8 우선 시도 (에러 대체)
+🔍 UTF-8 디코딩 성공 (에러 대체) - 한글 확인: ['주식매수', '뱅크', '로벌']
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="12010">주식매수?��?���? �??��?�� �??�� ?���?</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20180119">1.3</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01138595">뱅크?��?���?로벌(�?)</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="4">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="1" ADUPLICATION="N">
+<C...
+🔍 추출된 텍스트 길이: 7263 문자
+✅ 문서 내용 반환 (7263 문자)
+INFO:     127.0.0.1:33708 - "GET /api/disclosures/20251013000152/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000150
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000150
+📋 접수번호: 20251013000150
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000150
+🔍 스크립트에서 발견된 dcmNo: 10837124 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000150&dcmNo=10837124&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 10629 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 - UTF-8 우선 시도 (에러 대체)
+🔍 UTF-8 디코딩 성공 (에러 대체) - 한글 확인: ['출자계열', '거래', '코페']
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="N">
+<DOCUMENT-NAME ACODE="80702">?��?��?��?��출자계열?��?��???��?��?��?��?��?��거래</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20250630">6.1</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00972673">?��?��코페?��로�?미컬 주식?��?��</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="1">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" A...
+🔍 추출된 텍스트 길이: 1206 문자
+✅ 문서 내용 반환 (1206 문자)
+INFO:     127.0.0.1:33708 - "GET /api/disclosures/20251013000150/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000147
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000147
+📋 접수번호: 20251013000147
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000147
+🔍 스크립트에서 발견된 dcmNo: 10837123 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000147&dcmNo=10837123&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 17169 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 - UTF-8 우선 시도 (에러 대체)
+🔍 UTF-8 디코딩 성공 (에러 대체) - 한글 확인: ['분할', '결정', '카카']
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="80532">?��?��분할?���? 결정</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20101001">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01411434">(�?)카카?��?��?��?��?��?���?</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="1">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>...
+🔍 추출된 텍스트 길이: 3521 문자
+✅ 문서 내용 반환 (3521 문자)
+INFO:     127.0.0.1:32910 - "GET /api/disclosures/20251013000147/content HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [530735]
+INFO:     Started server process [531850]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 공시 내용 요청: 20251013900245
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900245
+📋 접수번호: 20251013900245
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900245
+🔍 스크립트에서 발견된 dcmNo: 10837095 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900245&dcmNo=10837095&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 18856 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 3738 문자
+✅ 문서 내용 반환 (3738 문자)
+INFO:     127.0.0.1:48226 - "GET /api/disclosures/20251013900245/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013800254
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800254
+📋 접수번호: 20251013800254
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800254
+🔍 스크립트에서 발견된 dcmNo: 10837094 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013800254&dcmNo=10837094&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 56554 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 2374 문자
+✅ 문서 내용 반환 (2374 문자)
+INFO:     127.0.0.1:48226 - "GET /api/disclosures/20251013800254/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900252
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900252
+📋 접수번호: 20251013900252
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900252
+🔍 스크립트에서 발견된 dcmNo: 10837012 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900252&dcmNo=10837012&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 6949 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: EUC-KR (신뢰도: 0.99)
+🔍 chardet 감지 결과: {'encoding': 'EUC-KR', 'confidence': 0.99, 'language': 'Korean'}
+🔍 EUC-KR 우선 디코딩 성공
+🔍 HTML 첫 500자: <html>
+ <head><link href="/css/koscom_web2.css" rel="stylesheet" type="text/css"/> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    bor...
+🔍 추출된 텍스트 길이: 509 문자
+✅ 문서 내용 반환 (509 문자)
+INFO:     127.0.0.1:48226 - "GET /api/disclosures/20251013900252/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000122
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000122
+📋 접수번호: 20251013000122
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000122
+🔍 스크립트에서 발견된 dcmNo: 10837077 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000122&dcmNo=10837077&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 54118 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 - UTF-8 우선 시도 (에러 대체)
+🔍 UTF-8 디코딩 성공 (에러 대체) - 한글 확인: ['주요', '보고', '증자결정']
+⚠️ 혼합 인코딩 감지, 복원 시도...
+🔍 혼합 인코딩 복원 완료
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="11306">주요?궗?빆보고?꽌(?쑀?긽증자결정)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20250630">6.1</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00193009">耳??씠?뿉?씠치필룩스(二?)</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="4">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="1" ADUPLICATION="N">
+<COMMENT>?뾾clic...
+🔍 추출된 텍스트 길이: 8791 문자
+✅ 문서 내용 반환 (8791 문자)
+INFO:     127.0.0.1:48226 - "GET /api/disclosures/20251013000122/content HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [531850]
+INFO:     Started server process [532819]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 공시 내용 요청: 20251013000134
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000134
+📋 접수번호: 20251013000134
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000134
+🔍 스크립트에서 발견된 dcmNo: 10837073 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000134&dcmNo=10837073&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 8363 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 - UTF-8 우선 시도 (에러 대체)
+🔍 UTF-8 디코딩 성공 (에러 대체) - 한글 확인: ['결정', '개발', '문서']
+⚠️ 혼합 인코딩 감지, 복원 시도...
+🔍 혼합 인코딩 복원 완료
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="80526">쁺뾽뼇룄 결정</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20221227">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01169337">濡?뜲슱궛개발(二?)</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="1">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>뾾click뾾 젙젙문서 옉꽦떆 롮젙삤몴?? ...
+🔍 추출된 텍스트 길이: 900 문자
+✅ 문서 내용 반환 (900 문자)
+INFO:     127.0.0.1:42050 - "GET /api/disclosures/20251013000134/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000133
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000133
+📋 접수번호: 20251013000133
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000133
+🔍 스크립트에서 발견된 dcmNo: 10837072 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000133&dcmNo=10837072&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 31228 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 - UTF-8 우선 시도 (에러 대체)
+🔍 UTF-8 디코딩 성공 (에러 대체) - 한글 확인: ['증권발행', '보고', '증권']
+⚠️ 혼합 인코딩 감지, 복원 시도...
+🔍 혼합 인코딩 복원 완료
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="10800">증권발행떎쟻보고꽌</DOCUMENT-NAME>
+<FORMULA-VERSION SUBVER="1" ADATE="20230828">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00117601">쑀븞?利앷텒</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="10">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>뾾click뾾 젙젙문서 옉꽦...
+🔍 추출된 텍스트 길이: 3543 문자
+✅ 문서 내용 반환 (3543 문자)
+INFO:     127.0.0.1:42050 - "GET /api/disclosures/20251013000133/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000131
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000131
+📋 접수번호: 20251013000131
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000131
+🔍 스크립트에서 발견된 dcmNo: 10837068 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000131&dcmNo=10837068&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 330004 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 - UTF-8 우선 시도 (에러 대체)
+🔍 UTF-8 디코딩 성공 (에러 대체) - 한글 확인: ['감사보고', '주식', '갈라']
+⚠️ 혼합 인코딩 감지, 복원 시도...
+🔍 혼합 인코딩 복원 완료
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="00760">감사보고꽌</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20221027">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00809960" AACCOUNTTYPE="A">주식쉶궗 갈라씤꽣궡뀛꼸</COMPANY-NAME>
+
+<SUMMARY>
+<EXTRACTION ACODE="AUDIT_CIK" AFEATURE="BOTH">01281514</EXTRACTION>
+<EXTRACTION ACODE="SUPV_OPIN" AFEATURE="BO...
+🔍 추출된 텍스트 길이: 38034 문자
+✅ 문서 내용 반환 (38034 문자)
+INFO:     127.0.0.1:42050 - "GET /api/disclosures/20251013000131/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000123
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000123
+📋 접수번호: 20251013000123
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000123
+🔍 스크립트에서 발견된 dcmNo: 10837054 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000123&dcmNo=10837054&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 288595 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 - UTF-8 우선 시도 (에러 대체)
+🔍 UTF-8 디코딩 성공 (에러 대체) - 한글 확인: ['결감', '보고', '주식']
+⚠️ 혼합 인코딩 감지, 복원 시도...
+🔍 혼합 인코딩 복원 완료
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="00761">뿰결감궗보고꽌</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20230116">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="01856886" AACCOUNTTYPE="A">뵾떚902 주식쉶궗</COMPANY-NAME>
+
+<SUMMARY>
+<EXTRACTION ACODE="AUDIT_CIK" AFEATURE="BOTH">01018316</EXTRACTION>
+<EXTRACTION ACODE="SUPV_OPIN" AFEATURE="BO...
+🔍 추출된 텍스트 길이: 37728 문자
+✅ 문서 내용 반환 (37728 문자)
+INFO:     127.0.0.1:42050 - "GET /api/disclosures/20251013000123/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000121
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000121
+📋 접수번호: 20251013000121
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000121
+🔍 스크립트에서 발견된 dcmNo: 10837045 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000121&dcmNo=10837045&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 419358 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 - UTF-8 우선 시도 (에러 대체)
+🔍 UTF-8 디코딩 성공 (에러 대체) - 한글 확인: ['괄신고추', '결합증권', '계증']
+⚠️ 혼합 인코딩 감지, 복원 시도...
+🔍 혼합 인코딩 복원 완료
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="10131">씪괄신고추媛?꽌瑜?(뙆깮결합증권 - 주??뿰계증沅?)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20151203">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00136721">떊쁺증권</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="32">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>뾾click뾾 ...
+🔍 추출된 텍스트 길이: 95606 문자
+✅ 문서 내용 반환 (95606 문자)
+INFO:     127.0.0.1:42050 - "GET /api/disclosures/20251013000121/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000112
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000112
+📋 접수번호: 20251013000112
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000112
+🔍 스크립트에서 발견된 dcmNo: 10837038 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000112&dcmNo=10837038&eleId=1&offset=0&length=0&dtd=HTML
+🔍 페이지 로드 완료
+🔍 응답 길이: 29547 문자
+🔍 Content-Type: text/html; charset=ms949
+🔍 chardet 감지 인코딩: None (신뢰도: 0.00)
+🔍 chardet 감지 결과: {'encoding': None, 'confidence': 0.0, 'language': None}
+⚠️ 자동 감지 실패 또는 낮은 신뢰도: None (0.00)
+🔍 ms949를 cp949로 변환
+🔍 XML 문서 감지 - UTF-8 우선 시도 (에러 대체)
+🔍 UTF-8 디코딩 성공 (에러 대체) - 한글 확인: ['주요', '보고', '기주']
+⚠️ 혼합 인코딩 감지, 복원 시도...
+🔍 혼합 인코딩 복원 완료
+🔍 HTML 첫 500자: <?xml version="1.0" encoding="utf-8"?>
+
+
+<DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dart4.xsd">
+
+<DOCUMENT-HEADER AEXT-CLASS="Y">
+<DOCUMENT-NAME ACODE="11335">주요궗빆보고꽌(옄기주떇취득 떊긽계약 빐吏? 결정)</DOCUMENT-NAME>
+<FORMULA-VERSION ADATE="20231229">6.0</FORMULA-VERSION>
+<COMPANY-NAME AREGCIK="00356389">봽읆뙆뒪듃</COMPANY-NAME>
+</DOCUMENT-HEADER>
+
+<BODY ATOCID="2">
+
+<INSERTION ABASISNUMBER="SE1" AFREQUENCY="0" ADUPLICATION="N">
+<COMMENT>뾾click뾾 젙젙...
+🔍 추출된 텍스트 길이: 2107 문자
+✅ 문서 내용 반환 (2107 문자)
+INFO:     127.0.0.1:42050 - "GET /api/disclosures/20251013000112/content HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:55848 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [532819]
+INFO:     Started server process [534912]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:60726 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000362
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000362
+📋 접수번호: 20251013000362
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000362
+🔍 스크립트에서 발견된 dcmNo: 10837974 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000362&dcmNo=10837974&eleId=1&offset=0&length=0&dtd=HTML
+✅ 문서 내용 반환 (10636 문자)
+INFO:     127.0.0.1:43840 - "GET /api/disclosures/20251013000362/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013000367
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000367
+📋 접수번호: 20251013000367
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000367
+🔍 스크립트에서 발견된 dcmNo: 10837982 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013000367&dcmNo=10837982&eleId=1&offset=0&length=0&dtd=HTML
+✅ 문서 내용 반환 (21680 문자)
+INFO:     127.0.0.1:43840 - "GET /api/disclosures/20251013000367/content HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:57342 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:37550 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     167.94.146.56:54160 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.56:48694 - "GET / HTTP/1.1" 200 OK
+INFO:     167.94.146.56:48784 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.56:48788 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     167.94.146.56:36172 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.56:56070 - "GET /.well-known/security.txt HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:59278 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:45640 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:60476 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:35850 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:57542 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:58872 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:60068 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:44756 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:34392 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:34394 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:42410 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:50414 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:50410 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:54344 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:44846 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:44840 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:44552 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:49976 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:49980 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:50748 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:36878 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:53770 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:53784 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:59310 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:41084 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:44628 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     162.243.67.80:36740 - "GET / HTTP/1.1" 200 OK
+INFO:     162.243.67.80:36748 - "GET /login HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:53264 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:56250 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:42164 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:33868 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:33866 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     Started server process [2633]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+🚀 DART Crawler API 서버 시작...
+📍 http://localhost:8000
+📖 API 문서: http://localhost:8000/docs
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:46960 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+🔍 요청 받음: mday_cnt=7, company_name=, fetch_all=True
+🔍 최근 7일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 1개의 공시 발견
+⚠️ 컬럼 수 부족: 1개 (최소 6개 필요)
+✅ 페이지 1 요청 성공: 0건 발견
+✅ 페이지 1에서 공시가 없음. 종료합니다.
+
+🎉 전체 0건의 공시를 가져왔습니다!
+✅ 0건의 공시 반환
+INFO:     127.0.0.1:34898 - "GET /api/disclosures/recent?mday_cnt=7&fetch_all=true HTTP/1.1" 200 OK
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:34892 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     176.65.149.182:60584 - "CONNECT ipv4-internet.yandex.net%3A443 HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:57090 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     159.203.171.49:56272 - "GET / HTTP/1.1" 200 OK
+INFO:     159.203.171.49:56282 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:46668 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013800712
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800712
+📋 접수번호: 20251013800712
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800712
+🔍 스크립트에서 발견된 dcmNo: 10837991 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013800712&dcmNo=10837991&eleId=1&offset=0&length=0&dtd=HTML
+✅ 문서 내용 반환 (587 문자)
+INFO:     127.0.0.1:53614 - "GET /api/disclosures/20251013800712/content HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:42888 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     184.105.247.194:34786 - "GET / HTTP/1.1" 200 OK
+INFO:     184.105.247.218:37987 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     184.105.247.230:40781 - "GET http%3A//api.ipify.org/?format=json HTTP/1.1" 404 Not Found
+INFO:     184.105.247.246:8517 - "CONNECT www.shadowserver.org%3A443 HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:50486 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.82.78.102:60162 - "GET / HTTP/1.1" 200 OK
+INFO:     45.82.78.114:49120 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     89.248.164.165:52442 - "GET http%3A//ossweb-img.qq.com/images/js/eas/eas.js HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:42118 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:60076 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013800711
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800711
+📋 접수번호: 20251013800711
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800711
+🔍 스크립트에서 발견된 dcmNo: 10837989 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013800711&dcmNo=10837989&eleId=1&offset=0&length=0&dtd=HTML
+✅ 문서 내용 반환 (600 문자)
+INFO:     127.0.0.1:53962 - "GET /api/disclosures/20251013800711/content HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900696
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900696
+📋 접수번호: 20251013900696
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900696
+🔍 스크립트에서 발견된 dcmNo: 10837978 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900696&dcmNo=10837978&eleId=1&offset=0&length=0&dtd=HTML
+✅ 문서 내용 반환 (1895 문자)
+INFO:     127.0.0.1:54610 - "GET /api/disclosures/20251013900696/content HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:58738 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:36302 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 공시 내용 요청: 20251013900699
+🔍 문서 내용 가져오는 중...
+🔗 URL: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900699
+📋 접수번호: 20251013900699
+🔍 메인 페이지 접근: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900699
+🔍 스크립트에서 발견된 dcmNo: 10837981 (패턴: viewDoc\([^,]+,\s*["\']?(\d{7,})["\']?)
+🎯 HTML 형식으로 우선 시도...
+📄 본문 가져오는 중: https://dart.fss.or.kr/report/viewer.do?rcpNo=20251013900699&dcmNo=10837981&eleId=1&offset=0&length=0&dtd=HTML
+✅ 문서 내용 반환 (58045 문자)
+INFO:     127.0.0.1:46404 - "GET /api/disclosures/20251013900699/content HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:59864 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:53568 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:54284 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:53616 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:44296 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:41434 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:40516 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:38198 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:36796 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:37364 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     103.203.57.20:38460 - "GET / HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:54920 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:59562 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:47914 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:50252 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:54696 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:54670 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:41948 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 52개의 공시 발견
+✅ 페이지 4 요청 성공: 52건 발견
+✅ 페이지 4: 52건 추가 (누적: 352건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 352건의 공시를 가져왔습니다!
+✅ 352건의 공시 반환
+INFO:     127.0.0.1:55004 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:50164 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     66.132.159.254:37348 - "GET / HTTP/1.1" 200 OK
+INFO:     66.132.159.254:52062 - "GET / HTTP/1.1" 200 OK
+INFO:     66.132.159.254:52076 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     66.132.159.254:52078 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.159.254:52094 - "GET / HTTP/1.1" 200 OK
+INFO:     144.172.106.240:35430 - "POST /login.cgi/cgi_main.cgi HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:52122 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:45706 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:56640 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:47588 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     204.76.203.18:50068 - "GET / HTTP/1.1" 200 OK
+INFO:     204.76.203.18:57962 - "GET /bins/ HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:45372 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     204.76.203.18:41244 - "GET /bin/ HTTP/1.1" 404 Not Found
+INFO:     204.76.203.18:49178 - "GET /backup/ HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:37718 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     87.236.176.147:43749 - "GET / HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:47710 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:38312 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:35930 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:40024 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     213.212.37.254:41164 - "GET / HTTP/1.0" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:47318 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:34824 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:52486 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     162.142.125.214:41438 - "GET / HTTP/1.1" 200 OK
+INFO:     162.142.125.214:41442 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     162.142.125.214:41458 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.214:41534 - "GET / HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:34720 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     142.93.149.172:51150 - "GET / HTTP/1.1" 200 OK
+INFO:     142.93.149.172:51156 - "GET /login HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:37676 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:55950 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     165.22.193.223:32852 - "GET / HTTP/1.1" 200 OK
+INFO:     200.9.154.79:34628 - "CONNECT httpbin.org%3A443 HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:36052 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:49008 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:40588 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:41784 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:45704 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:44146 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     147.185.132.10:58734 - "GET / HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:46124 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:33702 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     139.162.119.146:47324 - "GET / HTTP/1.0" 200 OK
+INFO:     139.162.119.146:47358 - "GET /nice%20ports%2C/Trinity.txt.bak HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     139.162.119.146:47388 - "OPTIONS / HTTP/1.0" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     139.162.119.146:50112 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     139.162.119.146:50118 - "GET / HTTP/1.1" 200 OK
+INFO:     139.162.119.146:50120 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     139.162.119.146:50134 - "GET /webui HTTP/1.1" 404 Not Found
+INFO:     139.162.119.146:50142 - "GET / HTTP/1.1" 200 OK
+INFO:     139.162.119.146:50158 - "GET /owa/ HTTP/1.1" 404 Not Found
+INFO:     139.162.119.146:50166 - "GET /owa/ HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     139.162.119.146:58022 - "GET / HTTP/1.1" 200 OK
+INFO:     204.76.203.18:58068 - "GET / HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:57214 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     204.76.203.18:40604 - "GET /bins/ HTTP/1.1" 404 Not Found
+INFO:     66.132.153.125:60486 - "GET / HTTP/1.1" 200 OK
+INFO:     66.132.153.125:60506 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     66.132.153.125:60534 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.153.125:60544 - "GET / HTTP/1.1" 200 OK
+INFO:     204.76.203.18:47244 - "GET /bin/ HTTP/1.1" 404 Not Found
+INFO:     204.76.203.18:47042 - "GET /backup/ HTTP/1.1" 404 Not Found
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:58238 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:55552 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:39946 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:56690 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:40252 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:50810 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:39902 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:34882 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     89.248.164.165:43936 - "GET http%3A//ossweb-img.qq.com/images/js/eas/eas.js HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:43932 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:43516 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:49438 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:44518 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:41800 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+INFO:     199.45.154.130:54412 - "GET / HTTP/1.1" 200 OK
+INFO:     199.45.154.130:44112 - "GET / HTTP/1.1" 200 OK
+INFO:     199.45.154.130:44146 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     199.45.154.130:44150 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     199.45.154.130:58464 - "GET / HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:55048 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:58962 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:47630 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
+🔍 요청 받음: mday_cnt=1, company_name=, fetch_all=True
+🔍 최근 1일간 공시 전체 가져오기 시작...
+
+📄 페이지 1 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 1 요청 성공: 100건 발견
+✅ 페이지 1: 100건 추가 (누적: 100건)
+
+📄 페이지 2 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 2 요청 성공: 100건 발견
+✅ 페이지 2: 100건 추가 (누적: 200건)
+
+📄 페이지 3 요청 중...
+📊 100개의 공시 발견
+✅ 페이지 3 요청 성공: 100건 발견
+✅ 페이지 3: 100건 추가 (누적: 300건)
+
+📄 페이지 4 요청 중...
+📊 42개의 공시 발견
+✅ 페이지 4 요청 성공: 42건 발견
+✅ 페이지 4: 42건 추가 (누적: 342건)
+✅ 마지막 페이지 도달 (페이지 4)
+
+🎉 전체 342건의 공시를 가져왔습니다!
+✅ 342건의 공시 반환
+INFO:     127.0.0.1:58030 - "GET /api/disclosures/recent?mday_cnt=1&fetch_all=true HTTP/1.1" 200 OK
